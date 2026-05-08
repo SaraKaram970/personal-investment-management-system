@@ -1,0 +1,8 @@
+haidy,Stock,moo,6,33,7777.0
+haidy,Stock,mmm,3,22,4444.0
+malk,Stock,majk,5,33,999.0
+malk,RealEstate,kjk,2,33,7999.0
+malk,Stock,kkl,3,44,8890.0
+malk,Stock,qqw,3,44,6668.0
+malk,Stock,oopl,6,8,9999.0
+malk,Gold,kkk,2,33,78899.0
